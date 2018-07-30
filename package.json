@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "npm run compile -- --watch",
+    "test": "eslint --cache --ext .jsx . && echo ✓",
+    "compile": "faucet --compact"
+  },
+  "dependencies": {
+    "complate-stream": "^0.16.4"
+  },
+  "devDependencies": {
+    "eslint-config-fnd-jsx": "^1.6.0",
+    "eslint-plugin-compat": "^2.5.1",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "faucet-pipeline-jsx": "^1.0.0-rc.8"
+  }
+}

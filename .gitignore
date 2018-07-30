@@ -1,0 +1,15 @@
+# Maven
+target
+
+# IntelliJ
+.idea
+*.iml
+
+# npm
+/node_modules
+
+# eslint
+/.eslintcache
+
+# maven wrapper
+.mvn/wrapper/MavenWrapperDownloader.java

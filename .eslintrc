@@ -1,0 +1,17 @@
+root: true
+
+plugins:
+- compat
+- jsx-a11y
+
+extends:
+- fnd-jsx
+- plugin:jsx-a11y/strict
+
+env:
+    nashorn: true
+
+rules:
+    jsx-a11y/heading-has-content: off
+    compat/compat: error
+    max-len: off
