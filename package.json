@@ -9,8 +9,8 @@
   },
   "devDependencies": {
     "eslint-config-fnd-jsx": "^1.6.0",
-    "eslint-plugin-compat": "^3.1.1",
-    "eslint-plugin-jsx-a11y": "^6.2.1",
-    "faucet-pipeline-jsx": "^2.0.5"
+    "eslint-plugin-compat": "^3.3.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "faucet-pipeline-jsx": "^2.0.6"
   }
 }
